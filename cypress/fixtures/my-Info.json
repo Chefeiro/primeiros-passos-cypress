@@ -1,0 +1,14 @@
+{
+    "personalDetails": {    
+        "firstName": "Primeiro",
+        "middleName": "Meio",
+        "lastName": "Ultimo",
+        "middleName": "Meio"
+
+},
+    "userFail": {
+        "username": "test",
+        "password": "test"
+  }
+
+}
